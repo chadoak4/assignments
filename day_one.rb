@@ -1,4 +1,4 @@
- 1. Assign "Hello World" to a variable named message.
+# 1. Assign "Hello World" to a variable named message.
 helloWorld = "Hello World"
 # 2. Assign a different string to a different variable.
 hi = "Hello Chad!"
