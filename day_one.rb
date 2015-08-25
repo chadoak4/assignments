@@ -1,5 +1,5 @@
 # 1. Assign "Hello World" to a variable named message.
-hello_world = "Hello World"
+message = "Hello World"
 # 2. Assign a different string to a different variable.
 hi = "Hello Chad!"
 # 3. Assign a number to a variable.
